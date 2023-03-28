@@ -97,23 +97,24 @@ cv2.destoryAllWindows()
 
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
+![2023-03-28](https://user-images.githubusercontent.com/94231938/228321513-9687feb1-96f0-4738-828f-95695e1b154e.png)
 
-![2023-03-28 (1)](https://user-images.githubusercontent.com/94231938/228320778-01c4898e-53c3-481f-a3ed-2e2bd9a73a5a.png)
-
-### ii) HSV to RGB and BGR
-
-![2023-03-28 (2)](https://user-images.githubusercontent.com/94231938/228320786-a77e0fa1-c8f3-4f23-a42a-f9a075d8cfa0.png)
+### ii)  HSV to RGB and BGR
+ 
+![2023-03-28 (1)](https://user-images.githubusercontent.com/94231938/228321868-01faeca6-dd3e-42dc-a24a-70663b2007f8.png)
 
 ### iii) RGB and BGR to YCrCb
+![2023-03-28 (2)](https://user-images.githubusercontent.com/94231938/228321994-24282304-cd39-419f-9c89-a0073c24df0d.png)
 
-![Uploading 2023-03-28 (3).png…]()
 
 ### iv) Split and merge RGB Image
-![2023-03-28 (4)](https://user-images.githubusercontent.com/94231938/228320798-5279df80-1948-4d9d-8b28-91e7fca598ca.png)
+
+![2023-03-28 (3)](https://user-images.githubusercontent.com/94231938/228322132-eafd4652-fc4d-40d5-98a0-cc3e5ac83195.png)
 
 
 ### v) Split and merge HSV Image
-![2023-03-28](https://user-images.githubusercontent.com/94231938/228320825-0ab38d0b-e732-4493-a0a3-408434350dd7.png)
+
+![2023-03-28 (4)](https://user-images.githubusercontent.com/94231938/228322149-32b918c1-58b3-4881-b203-ca472766032d.png)
 
 
 ## Result:
